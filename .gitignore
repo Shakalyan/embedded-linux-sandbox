@@ -1,0 +1,9 @@
+hw-module/*.cmd
+hw-module/*.o
+hw-module/*.mod
+hw-module/*.mod.c
+hw-module/*.symvers
+hw-module/*.order
+hw-module/*.ko
+
+.vscode
