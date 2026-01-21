@@ -1,9 +1,12 @@
-hw-module/*.cmd
-hw-module/*.o
-hw-module/*.mod
-hw-module/*.mod.c
-hw-module/*.symvers
-hw-module/*.order
-hw-module/*.ko
+br_overlay/oot_modules/**/*.cmd
+br_overlay/oot_modules/**/*.o
+br_overlay/oot_modules/**/*.mod
+br_overlay/oot_modules/**/*.mod.c
+br_overlay/oot_modules/**/*.symvers
+br_overlay/oot_modules/**/*.order
+br_overlay/oot_modules/**/*.ko
+
+test
+test.c
 
 .vscode
